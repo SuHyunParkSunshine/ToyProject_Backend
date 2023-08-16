@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JwtloginApplication<jwtlogin>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.suhyun.jwtlogin.JwtloginApplication",
+            "projectName": "jwtlogin",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
